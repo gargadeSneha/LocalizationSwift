@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizationSwift
+
+  Created by Sneha Gargade on 02/02/24.
+  
+*/
+"FirstNameKey" = "पहला नाम";
+"LastNameKey" = "उपनाम";
